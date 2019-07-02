@@ -24,7 +24,7 @@
 }
 .introduction-container{
     height:300px;
-    border:1px solid black;
+    /* border:1px solid black;   */
     background-color:pink;
     padding-left:20%;
     padding-right:20%

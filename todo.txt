@@ -1,7 +1,13 @@
 Top Functions
 -cool navbar for social media
--email api/ links
+-700 - 1000 px make more responsive
+-add personal image
+-add logo
+-add better colors
+-more INTRODUCTION description
+
 
 ~~~~~~~~~~~~~~~
-
+DONE
+-email api/ links
 
